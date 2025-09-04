@@ -54,7 +54,7 @@ A simple To-Do List app using Laravel
 
 ```bash
 git clone <repository-url>
-cd indoplat-todolist
+cd todolist
 ```
 
 ### Step 2: Install PHP Dependencies
