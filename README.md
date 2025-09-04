@@ -123,10 +123,24 @@ For development with hot reload:
 npm run dev
 ```
 
-### Step 8: Start the Application
+### Step 8: Running Seeder For Initial User
+
+```bash
+php artisan db:seed
+```
+
+### Step 9: Start the Application
 
 ```bash
 php artisan serve
+```
+
+### Step 10: Login Using Credentials
+
+visit login page '/login' and use this credential to login
+```bash
+email: admin@indoplat.co.id
+password: indoplat123
 ```
 
 The application will be available at `http://localhost:8000`
